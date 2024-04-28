@@ -53,6 +53,8 @@ Good ViBEs (Virtual Biochemical Explorations) Lab is a Computational Chemistry R
 
 Our lab is dedicated to advancing scientific knowledge and making impactful contributions in several key areas to the benefit of Filipinos. We specialize in Computational Protein Engineering, where we leverage cutting-edge computational methods to design and optimize proteins for various applications. Additionally, we excel in Molecular Docking, using computational techniques to predict and analyze molecular interactions between proteins and ligands. Our expertise also extends to Molecular Dynamics Simulations, where we simulate the movements and behaviors of biomolecules to understand their functions and properties better. Lastly, we conduct Thermophysical Nucleation Calculations to explore the fundamental processes involved in nucleation phenomena, particularly in complex systems.
 
+Our lab specializes in the application of computational chemistry for drug development, atmospheric nucleation calculations, protein allostery, and other in silico studies. We hope that this presentation inspired you to explore Computational Chemistry. For collaborations, contact us through our official facebook page.
+
 We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
