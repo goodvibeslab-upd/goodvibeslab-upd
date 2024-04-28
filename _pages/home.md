@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "The good ViBEs Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "good ViBEs at the University of the Philippines Diliman &rarr; UPD."
 sitemap: false
 permalink: /
 ---
