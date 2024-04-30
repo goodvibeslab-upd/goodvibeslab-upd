@@ -1,12 +1,23 @@
 - name: Jokent T. Gaza
   photo: jokent.png
-  duration: In the good ViBEs Lab 2015 - 2023, now a PhD student at the University of Florida
+  duration: 2015 - 2023
   info: Lab manager from 2021 to 2023.
   email: jtgaza@up.edu.ph
-  number_educ: 2
-  education1: BSc at UPD
-  education2: Masters at UPD
-  education3:
+  number_educ: 3
+  education1: BSc Chemistry at UPD
+  education2: MSc Chemistry at UPD
+  education3: PhD Chemistry at University of Florida, started Fall 2023
+  education4:
+
+- name: Mac Kevin E. Braza
+  photo: kevin.png
+  duration: 2017 - 2019
+  info: Lab manager from 2019 to 2020.
+  email: mebraza@up.edu.ph
+  number_educ: 3
+  education1: BSc Chemistry at UP Los Baños
+  education2: MSc Chemistry at UPD
+  education3: PhD Chemistry at University of California San Diego, started Fall 2020
   education4:
   
 #- name: Gijsbert Verdoes
