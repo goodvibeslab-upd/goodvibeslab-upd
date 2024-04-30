@@ -47,8 +47,6 @@ Good ViBEs (Virtual Biochemical Explorations) Lab is a Computational Chemistry R
 
 Our lab specializes in the application of computational chemistry for drug development, atmospheric nucleation calculations, protein allostery, and other in silico studies. We hope that this presentation inspired you to explore Computational Chemistry. For collaborations, contact us through our official facebook page.
 
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
-
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GV_lab.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IC_logo.png" style="width: 110px">
