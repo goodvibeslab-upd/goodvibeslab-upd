@@ -7,6 +7,24 @@
   education2: PhD Chemistry at Louisiana State University, Baton Rouge; under Dr. Bin Chen
   education3: Postdoc at University of Tennessee Knoxville; under Dr. Tongye Shen
   education4: Executive Director at <a href="https://isc.up.edu.ph/">UPD Intelligent Systems Center</a>
+
+- name: Gardee T. Peña
+  photo: gardee.png
+  info: PhD Chemistry, started 2021
+  email: gtpena1@up.edu.ph
+  number_educ: 3
+  education1: BSc Chemistry at UP Los Baños
+  education2: MSc Chemistry, Minor in Agricultural Chemistry at UP Los Baños
+  education3: Currently Department Chair, Department of Biochemistry, UST - Faculty of Pharmacy
+  
+- name: Remmer L. Salas
+  photo: remmer.png
+  info: PhD Chemistry, started 2019
+  email: rlsalas@up.edu.ph
+  number_educ: 3
+  education1: BSc at Visayas State University
+  education2: MSc Chemistry at UP Diliman
+  education3: Currently Instructor at Visayas State University
   
 #- name: Milan P Allan
   #photo: Milan1.jpg
