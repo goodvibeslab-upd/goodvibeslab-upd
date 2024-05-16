@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-*Good ViBEs (Virtual Biochemical Explorations) Lab is a Computational Chemistry Research Lab led by Dr. Ricky B. Nellas.*
+<b> Good ViBEs (Virtual Biochemical Explorations) Lab is a Computational Chemistry Research Lab led by Dr. Ricky B. Nellas.</b>
 
 We are located at the Institute of Chemistry, University of the Philippines Diliman. Started in 2014, our lab aims to address different problems in chemistry and related fields using a computational approach.
 
