@@ -33,7 +33,7 @@ We are part of the <a href="https://chemistry.science.upd.edu.ph">Institute of C
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_oval.png" alt="Group Oval" />
         </div>
         <div class="carousel-item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grad.png" alt="Graduation" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grad.jpg" alt="Graduation" />
         </div>
         <div class="carousel-item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icms-group.png" alt="ICMS Group" />
