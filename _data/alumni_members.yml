@@ -60,7 +60,31 @@
   education1: MSc Chemistry at UP Diliman
   education2: BSc Chemistry at PUP
   
-  
+- name: Jerwin Quirante
+  photo: jerwin.png
+  duration: 2021 - 2024
+  info: MS Chemistry Student
+  number_educ: 2
+  education1: MSc Chemistry at UP Diliman
+  education2: BSc Chemistry at UP Los Banos
+
+
+- name: Jaidriel Meg Cabanding
+  photo: meg.png
+  duration: 2017 - 2023
+  info: MS Chemistry Student
+  number_educ: 2
+  education1: MSc Chemistry at UP Diliman
+  education2: BSc Chemistry at Tarlac State University
+
+- name: Jaidriel Meg Cabanding
+  photo: windol.jpg
+  duration: 2016 - 2021
+  info: MS Chemistry Student
+  number_educ: 2
+  education1: MSc Chemistry at UP Diliman
+  education2: MSc Chemistry at UP Diliman
+
   
 #- name: Gijsbert Verdoes
 #  photo: verdoes.jpg
