@@ -10,7 +10,7 @@
 
 - name: Gardee T. Peña
   photo: gardee.png
-  info: "PhD Chemistry, started 2021"
+  info: "PhD Chemistry student, started 2021"
   email: gtpena1@up.edu.ph
   number_educ: 2
   education1: BSc Chemistry at UP Los Baños
@@ -18,13 +18,69 @@
   
 - name: Remmer L. Salas
   photo: remmer.png
-  info: "PhD Chemistry, started 2019"
+  info: "PhD Chemistry student, started 2019"
   email: rlsalas@up.edu.ph
   number_educ: 3
   education1: "BSc at Visayas State University"
   education2: "MSc Chemistry at UP Diliman"
   education3: "Currently Instructor at Visayas State University"
 
+- name: Joshua Gener Lopez
+  photo: shua.png
+  info: PhD Chemistry student and Instructor, started 2022
+  email: jdlopez7@up.edu.ph
+  number_educ: 2
+  education1: PhD Chemistry at UP Diliman
+  education2: BSc Chemistry at UP Diliman
+
+- name: Marie Dale Peralis
+  photo: dale.png
+  info: MSc Chemistry student and Instructor, started 2021
+  email: mtperalis@up.edu.ph
+  number_educ: 2
+  education1: MSc Chemistry at UP Diliman
+  education2: BSc Chemistry at PUP
+  
+- name: Donnifer Jr. Reyes
+  photo: donnie.png
+  info: MSc Chemistry student and Instructor, started 2021
+  email: dvreyes@up.edu.ph
+  number_educ: 2
+  education1: MSc Chemistry at UP Diliman
+  education2: BSc Chemistry at UP Diliman
+
+
+- name: James Peter  Lim
+  photo: donnie.png
+  info: MSc Chemistry student and Research Assistant, started 2021
+  email: dvreyes@up.edu.ph
+  number_educ: 2
+  education1: MSc Chemistry at UP Diliman
+  education2: BSc Chemistry at UP Diliman
+
+- name: Myrnel Almoradie-Fortuna
+  photo: myrnel.png
+  info: MSc Chemistry student and Research Assistant, started 2021
+  email: mdalmoradie@up.edu.ph
+  number_educ: 2
+  education1: MSc Chemistry at UP Diliman
+  education2: BSc Pharmacy at UP Manila
+
+- name: Joseph Gregory Cabinta
+  photo: iggy.png
+  info: MSc Chemistry student, started 2022
+  email: jzcabinta1@up.edu.ph
+  number_educ: 2
+  education1: MSc Chemistry at UP Diliman
+  education2: BSc Chemistry at UP Diliman
+
+- name: Almira Ocampo
+  photo: almira.png
+  info: MSc Chemistry student, started 2021
+  email: abocampo@up.edu.ph
+  number_educ: 2
+  education1: MSc Chemistry at UP Diliman
+  education2: BSc Chemistry at UP Diliman
   
 #- name: Milan P Allan
 #  photo: Milan1.jpg
