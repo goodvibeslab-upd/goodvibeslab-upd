@@ -6,7 +6,7 @@
   education1: "BSc Chemistry at UP Los Baños"
   education2: "PhD Chemistry at Louisiana State University, Baton Rouge; under Dr. Bin Chen"
   education3: "Postdoc at University of Tennessee Knoxville; under Dr. Tongye Shen"
-  education4: "Executive Director at *UPD Intelligent Systems Center* < a "https://isc.up.edu.ph/" >
+  education4: "Executive Director at UPD Intelligent Systems Center
 
 - name: Gardee T. Peña
   photo: gardee.png
@@ -26,7 +26,7 @@
   education3: "Currently Instructor at Visayas State University"
 
   
-#- name: Milan P Allan
+- name: Milan P Allan
   #photo: Milan1.jpg
   #info: Associate professor, started Jan 2015
   #email: milan.allan@gmail.com
