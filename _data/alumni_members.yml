@@ -6,7 +6,7 @@
   number_educ: 3
   education1: BSc Chemistry at UPD
   education2: MSc Chemistry at UPD
-  education3: PhD Chemistry at University of Florida, started Fall 2023
+  education3: PhD Chemistry at University of Florida
   education4:
 
 - name: Mac Kevin E. Braza
@@ -17,8 +17,17 @@
   number_educ: 3
   education1: BSc Chemistry at UP Los Baños
   education2: MSc Chemistry at UPD
-  education3: PhD Chemistry at University of California San Diego, started Fall 2020
+  education3: PhD Chemistry at University of California San Diego
   education4:
+
+- name: Pete Gabriel L. Ledesma
+  photo: pete.png
+  duration: 2019 - 2022
+  info: BS Chemistry student
+  email: plledesma@up.edu.ph
+  number_educ: 2
+  education1: BSc Chemistry at UP Diliman
+  education2: PhD Chemistry (straight program) at University of Minnesota
   
 #- name: Gijsbert Verdoes
 #  photo: verdoes.jpg
