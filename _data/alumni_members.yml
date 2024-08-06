@@ -40,12 +40,14 @@
 - name: Lee Roy De Velez
   photo: lee.jpg
   duration: 2021-2023, now MSc student at University of Wollongong
+  info: Research Assistant
   number_educ: 1
   education1: BSc Biochemistry at UP Manila
 
 - name: Ronny L. Cheng
   photo: ronny.png
   duration: 2015-2023, incoming PhD student at China
+  info: Science Research Specialist
   number_educ: 2
   education1: MSc Chemistry at Xiamen University
   education2: BSc Chemistry at UP Diliman
