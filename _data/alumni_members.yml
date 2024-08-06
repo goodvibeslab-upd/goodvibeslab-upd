@@ -11,7 +11,7 @@
 
 - name: Mac Kevin E. Braza
   photo: kevin.jpg
-  duration: 2017 - 2019, PhD student at UCSD
+  duration: 2017 - 2019, now PhD student at UCSD
   info: Lab manager from 2019 to 2020
   email: mebraza@up.edu.ph
   number_educ: 3
@@ -22,7 +22,7 @@
 
 - name: Pete Gabriel L. Ledesma
   photo: pete.png
-  duration: 2019 - 2022, PhD student at University of Minessota
+  duration: 2019 - 2022, now PhD student at University of Minessota
   info: BS Chemistry student
   email: plledesma@up.edu.ph
   number_educ: 2
@@ -31,11 +31,26 @@
 
 - name: Darwin Gomez
   #photo: darwin.jpg
-  duration: 2015 - 2020, PhD student at Virginia Teach
+  duration: 2015 - 2020, now PhD student at Virginia Teach
   info: MS Chemistry student
   number_educ: 2
-  education1: MSC Chemistry at UP Diliman
+  education1: MSc Chemistry at UP Diliman
   education2: Doctor of Science at Virginia Tech
+
+- name: Lee Roy De Velez
+  photo: lee.jpg
+  duration: 2021-2023, now MSc student at University of Wollongong
+  number_educ: 1
+  education1: BSc Biochemistry at UP Manila
+
+- name: Ronny L. Cheng
+  photo: ronny.jpg
+  duration: 2015-2023, incoming PhD student at China
+  number_educ: 2
+  education1: MSc Chemistry at Xiamen University
+  education2: BSc Chemistry at UP Diliman
+  
+  
   
 #- name: Gijsbert Verdoes
 #  photo: verdoes.jpg
