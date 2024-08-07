@@ -44,13 +44,20 @@
   number_educ: 1
   education1: BSc Biochemistry at UP Manila
 
-- name: Ronny L. Cheng
+- name: Ronny Cheng
   photo: ronny.png
   duration: 2015 - 2023, now PhD student at University of Shenzen Hong Kong
   info: Science Research Specialist
   number_educ: 2
   education1: MSc Chemistry at Xiamen University
   education2: BSc Chemistry at UP Diliman
+
+- name: Christopher Llynard Ortiz
+  photo: llynard.jpg
+  duration: 2016 - 2019, now PhD student at Academia Sinica
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc Chemistry at UP Los Banos
   
 - name: Jerwin Quirante
   photo: jerwin.png
