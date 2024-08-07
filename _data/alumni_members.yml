@@ -11,7 +11,7 @@
 
 - name: Mac Kevin E. Braza
   photo: kevin.jpg
-  duration: 2017 - 2019, now PhD student at UCSD
+  duration: 2017 - 2019, now PhD student at University of California San Diego
   info: Lab manager from 2019 to 2020
   email: mebraza@up.edu.ph
   number_educ: 3
@@ -22,12 +22,12 @@
 
 - name: Pete Gabriel L. Ledesma
   photo: pete.png
-  duration: 2019 - 2022, now PhD student at University of Minessota
+  duration: 2019 - 2022, now PhD student at University of Minnesota
   info: BS Chemistry student
   email: plledesma@up.edu.ph
   number_educ: 2
   education1: BSc Chemistry at UP Diliman
-  education2: PhD Chemistry (straight program) at University of Minnesota
+  education2: PhD Chemistry (straight program) at the University of Minnesota
 
 - name: Darwin Gomez
   photo: darwin.jpg
