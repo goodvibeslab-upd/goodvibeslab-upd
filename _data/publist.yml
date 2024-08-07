@@ -9,7 +9,7 @@
 - title: "Complementary Pocket and Network-Based Approach to Search for Spike Protein Allosteric Pocket Sites"
   image: 2023_cheng.jpeg
   description: ""
-  authors: "Ronny L. Cheng, Jerwin C. Quirante, Louise Erika Z. Vargas, Abigael F. Gatchalian"
+  authors: "Ronny Cheng, Jerwin Quirante, Louise Erika Vargas, Abigael Gatchalian"
   link:
     url: "https://doi.org/10.1021/acsomega.3c04007"
     display: "ACS Omega 2023, 8, 48, 45313–45325"
@@ -18,16 +18,16 @@
 - title: "Reparameterization of Non-Bonded Parameters for Copper Ions in Plastocyanin: An Adaptive Force Matching Study"
   image: 2023_gaza_copper.jpeg
   description: ""
-  authors: "Jokent Gaza, Ming-Kang Tsai, Ricky B. Nellas"
+  authors: "Jokent Gaza, Ricky B. Nellas"
   link:
     url: "https://doi.org/10.1021/acs.jcim.3c00559"
-    display: "J. Chem. Inf. Model. 2023, 63, 15, 4654–4663"
+    display: "Journal of Chemical Information and Modeling, 63(15), pp.4654-4663"
   highlight: 1
 
 - title: "The role of glycerol–water mixtures in the stability of FKBP12-rapalog-FRB complexes"
   image: 2023_shua.jpg
   description: ""
-  authors: "Joshua Jener D. Lopez, Jokent T. Gaza, and Ricky B. Nellas."
+  authors: "Joshua Jener Lopez, Jokent Gaza, and Ricky Nellas."
   link:
     url: "https://doi.org/10.1016/j.jmgm.2023.108556"
     display: "Journal of Molecular Graphics and Modelling, 124, p.108556"
@@ -36,10 +36,10 @@
 - title: "Specificity of Monoterpene Interactions with Insect Octopamine and Tyramine Receptors: Insights from in Silico Sequence and Structure Comparison."
   image: 2023_ocampo.jpeg
   description: ""
-  authors: "Almira Ocampo, Joseph Gregory Cabinta, Hyvi Valeri Padilla, Eizadora Yu, and Ricky Nellas."
+  authors: "Almira Ocampo, Joseph Gregory Cabinta, Hyvi Valerie Padilla, Eizadora Yu, and Ricky Nellas."
   link:
     url: "https://pubs.acs.org/doi/full/10.1021/acsomega.2c06256"
-    display: "ACS omega, 8(4), pp.3861-3871."
+    display: "ACS omega, 8(4), pp.3861-3871"
   highlight: 1
 
 - title: "Sustainable hues: Exploring the molecular palette of biowaste dyes through LC-MS metabolomics. Molecules"
@@ -47,5 +47,32 @@
   authors: "Ralph John Emerson Molino, Klidel Fae Relin, Ricky Nellas, and Hiyas Junio"
   link:
     url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247289"
-    display: "Plos one, 16(5), p.e0247289."
+    display: "Plos one, 16(5), p.e0247289"
+  highlight: 0
+
+- title: "The effect of ligand affinity to the contact dynamics of the ligand binding domain of thyroid hormone receptor-retinoid X receptor"
+  image: lim_pub.jpg
+  description: ""
+  authors: "James Peter Lim, Mac Kevin Braza, and Ricky Nellas."
+  link:
+    url: "https://doi.org/10.1016/j.jmgm.2020.107829"
+    display: "Journal of Molecular Graphics and Modelling, 104, p.107829"
+  highlight: 1
+
+
+- title: "The effect of ligand affinity to the contact dynamics of the ligand binding domain of thyroid hormone receptor-retinoid X receptor"
+  description: ""
+  authors: "Mac Kevin Braza, Christian Seitz, J. Andrew McCammon, Rommie E. Amaro, and Ricky B. Nellas"
+  link:
+    url: "https://doi.org/10.1016/j.bpj.2020.11.1912"
+    display: "Biophysical Journal, 120(3), p.299a"
+  highlight: 0
+
+
+- title: "Computational reverse engineering of the lipase from Pseudomonas aeruginosa PAO1: α-helices"
+  description: ""
+  authors: "Adam Jo Elatico and Ricky Nellas"
+  link:
+    url: "https://doi.org/10.1016/j.jmgm.2020.107657"
+    display: "Journal of Molecular Graphics and Modelling, 100, p.107657"
   highlight: 0
