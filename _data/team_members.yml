@@ -29,57 +29,50 @@
   photo: shua.png
   info: PhD Chemistry student and Instructor, started 2022
   email: jdlopez7@up.edu.ph
-  number_educ: 2
-  education1: PhD Chemistry at UP Diliman
+  number_educ: 1
   education2: BSc Chemistry at UP Diliman
 
 - name: Marie Dale Peralis
   photo: dale.png
   info: MSc Chemistry student and Instructor, started 2021
   email: mtperalis@up.edu.ph
-  number_educ: 2
-  education1: MSc Chemistry at UP Diliman
+  number_educ: 1
   education2: BSc Chemistry at PUP
   
 - name: Donnifer Jr. Reyes
-  photo: james.png
+  photo: donnie.png
   info: MSc Chemistry student and Instructor, started 2021
   email: dvreyes@up.edu.ph
-  number_educ: 2
-  education1: MSc Chemistry at UP Diliman
+  number_educ: 1
   education2: BSc Chemistry at UP Diliman
 
 
 - name: James Peter  Lim
-  photo: donnie.png
+  photo: james.png
   info: MSc Chemistry student and Research Assistant, started 2021
-  email: dvreyes@up.edu.ph
-  number_educ: 2
-  education1: MSc Chemistry at UP Diliman
+  email: jllim@up.edu.ph
+  number_educ: 1
   education2: BSc Chemistry at UP Diliman
 
 - name: Myrnel Almoradie-Fortuna
   photo: myrnel.png
   info: MSc Chemistry student and Research Assistant, started 2021
   email: mdalmoradie@up.edu.ph
-  number_educ: 2
-  education1: MSc Chemistry at UP Diliman
+  number_educ: 1
   education2: BSc Pharmacy at UP Manila
 
 - name: Joseph Gregory Cabinta
   photo: iggy.png
-  info: MSc Chemistry student, started 2022
+  info: MSc Chemistry student and former research assistant, started 2022
   email: jzcabinta1@up.edu.ph
-  number_educ: 2
-  education1: MSc Chemistry at UP Diliman
+  number_educ: 1
   education2: BSc Chemistry at UP Diliman
 
 - name: Almira Ocampo
   photo: almira.png
-  info: MSc Chemistry student, started 2021
+  info: MSc Chemistry student and former research assistant, started 2021
   email: abocampo@up.edu.ph
-  number_educ: 2
-  education1: MSc Chemistry at UP Diliman
+  number_educ: 1
   education2: BSc Chemistry at UP Diliman
   
 #- name: Milan P Allan
