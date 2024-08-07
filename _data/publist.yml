@@ -4,6 +4,7 @@
   link:
     url: "http://dx.doi.org/10.2139/ssrn.4736138"
     display: "Available at SSRN 4736138 (2024)."
+  highlight:
 
 - title: "Complementary Pocket and Network-Based Approach to Search for Spike Protein Allosteric Pocket Sites"
   image: 2023_cheng.jpeg
@@ -42,10 +43,9 @@
   highlight: 1
 
 - title: "Sustainable hues: Exploring the molecular palette of biowaste dyes through LC-MS metabolomics. Molecules"
-  image: 2023_shua.jpg
   description: ""
   authors: "Ralph John Emerson Molino, Klidel Fae Relin, Ricky Nellas, and Hiyas Junio"
   link:
     url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247289"
     display: "Plos one, 16(5), p.e0247289."
-  highlight: 1
+  highlight:
