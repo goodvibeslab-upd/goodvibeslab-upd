@@ -9,7 +9,7 @@
 
 - title: "Complementary Pocket and Network-Based Approach to Search for Spike Protein Allosteric Pocket Sites"
   image: 2023_cheng.jpeg
-  description: "This study explores potentially druggable sites within the SARS-COV-2 spike protein using simulations and network analysis. We found three potential sites, which are located under the ligand binding domain of the spike protein."
+  description: ""
   authors: "Ronny L. Cheng, Jerwin C. Quirante, Louise Erika Z. Vargas, Abigael F. Gatchalian"
   link:
     url: "https://doi.org/10.1021/acsomega.3c04007"
@@ -43,14 +43,14 @@
     display: "ACS omega, 8(4), pp.3861-3871."
   highlight: 1
 
-- title: "Identification of inhibitors of the Schistosoma mansoni VKR2 kinase domain"
+- title: "Sustainable hues: Exploring the molecular palette of biowaste dyes through LC-MS metabolomics. Molecules"
   image: 2023_shua.jpg
   description: ""
-  authors: "Almira Ocampo, Joseph Gregory Cabinta, Hyvi Valeri Padilla, Eizadora Yu, and Ricky Nellas."
+  authors: "Ralph John Emerson Molino, Klidel Fae Relin, Ricky Nellas, and Hiyas Junio"
   link:
-    url: "https://pubs.acs.org/doi/full/10.1021/acsomega.2c06256"
-    display: "ACS omega, 8(4), pp.3861-3871."
-  highlight: 1
+    url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247289
+    display: "Plos one, 16(5), p.e0247289."
+  highlight: 0
   
 
 
