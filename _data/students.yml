@@ -1,1 +1,17 @@
+- name: Mark Lester Galicia
+  info: "MS Chemistry student, started 2023"
+  email: mcgalicia@up.edu.ph
+  number_educ: 1
+  education1: BSc Chemistry at PUP
 
+- name: Jeffrey Clement Bungar
+  info: "MS Chemistry student, started 2022"
+  email: jcbungar1@up.edu.ph
+  number_educ: 1
+  education1: BSc Chemistry at UP Los Banos
+
+- name: Mervin June Gasatan
+  info: "MS Chemistry student, started 2022"
+  email:  mbgasatan@up.edu.ph
+  number_educ: 1
+  education1: BSc Chemistry
