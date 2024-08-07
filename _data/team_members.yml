@@ -30,21 +30,21 @@
   info: PhD Chemistry student and Instructor, started 2022
   email: jdlopez7@up.edu.ph
   number_educ: 1
-  education2: BSc Chemistry at UP Diliman
+  education1: BSc Chemistry at UP Diliman
 
 - name: Marie Dale Peralis
   photo: dale.png
   info: MSc Chemistry student and Instructor, started 2021
   email: mtperalis@up.edu.ph
   number_educ: 1
-  education2: BSc Chemistry at PUP
+  education1: BSc Chemistry at PUP
   
 - name: Donnifer Jr. Reyes
   photo: donnie.png
   info: MSc Chemistry student and Instructor, started 2021
   email: dvreyes@up.edu.ph
   number_educ: 1
-  education2: BSc Chemistry at UP Diliman
+  education1: BSc Chemistry at UP Diliman
 
 
 - name: James Peter  Lim
@@ -52,28 +52,28 @@
   info: MSc Chemistry student and Research Assistant, started 2021
   email: jllim@up.edu.ph
   number_educ: 1
-  education2: BSc Chemistry at UP Diliman
+  education1: BSc Chemistry at UP Diliman
 
 - name: Myrnel Almoradie-Fortuna
   photo: myrnel.png
   info: MSc Chemistry student and Research Assistant, started 2021
   email: mdalmoradie@up.edu.ph
   number_educ: 1
-  education2: BSc Pharmacy at UP Manila
+  education1: BSc Pharmacy at UP Manila
 
 - name: Joseph Gregory Cabinta
   photo: iggy.png
   info: MSc Chemistry student and former research assistant, started 2022
   email: jzcabinta1@up.edu.ph
   number_educ: 1
-  education2: BSc Chemistry at UP Diliman
+  education1: BSc Chemistry at UP Diliman
 
 - name: Almira Ocampo
   photo: almira.png
   info: MSc Chemistry student and former research assistant, started 2021
   email: abocampo@up.edu.ph
   number_educ: 1
-  education2: BSc Chemistry at UP Diliman
+  education1: BSc Chemistry at UP Diliman
   
 #- name: Milan P Allan
 #  photo: Milan1.jpg
