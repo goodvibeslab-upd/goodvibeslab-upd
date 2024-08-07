@@ -36,7 +36,7 @@
 
 - title: "Specificity of Monoterpene Interactions with Insect Octopamine and Tyramine Receptors: Insights from in Silico Sequence and Structure Comparison."
   image: 2023_shua.jpg
-  description: ""
+  description:
   authors: "Almira Ocampo, Joseph Gregory Cabinta, Hyvi Valeri Padilla, Eizadora Yu, and Ricky Nellas."
   link:
     url: "https://pubs.acs.org/doi/full/10.1021/acsomega.2c06256"
@@ -45,11 +45,12 @@
 
 - title: "Sustainable hues: Exploring the molecular palette of biowaste dyes through LC-MS metabolomics. Molecules"
   image: 2023_shua.jpg
-  description: ""
+  description:
   authors: "Ralph John Emerson Molino, Klidel Fae Relin, Ricky Nellas, and Hiyas Junio"
   link:
     url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247289
     display: "Plos one, 16(5), p.e0247289."
+  highlight: 
   
 
 
