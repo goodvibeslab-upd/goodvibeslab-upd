@@ -1,3 +1,12 @@
+- title: "Interpretable Ensemble Classifiers for Reliable Prediction of Antibacterial Activities of Peptides Against Escherichia Coli and Staphylococcus Aureus"
+  image: 2023_shua.jpg
+  description: ""
+  authors: "Remmer Salas, Portia Mahal Sabido, and Ricky B. Nellas."
+  link:
+    url: "http://dx.doi.org/10.2139/ssrn.4736138"
+    display: "Available at SSRN 4736138 (2024)."
+  highlight: 1
+
 - title: "Complementary Pocket and Network-Based Approach to Search for Spike Protein Allosteric Pocket Sites"
   image: 2023_cheng.jpeg
   description: "This study explores potentially druggable sites within the SARS-COV-2 spike protein using simulations and network analysis. We found three potential sites, which are located under the ligand binding domain of the spike protein."
@@ -22,14 +31,7 @@
   authors: "Joshua Jener D. Lopez, Jokent T. Gaza, and Ricky B. Nellas."
   link:
     url: "https://doi.org/10.1016/j.jmgm.2023.108556"
-    display: ""
+    display: "Journal of Molecular Graphics and Modelling, 124, p.108556"
   highlight: 1
 
-- title: "Interpretable Ensemble Classifiers for Reliable Prediction of Antibacterial Activities of Peptides Against Escherichia Coli and Staphylococcus Aureus"
-  image: 2023_shua.jpg
-  description: ""
-  authors: "Remmer Salas, Portia Mahal Sabido, and Ricky B. Nellas."
-  link:
-    url: "http://dx.doi.org/10.2139/ssrn.4736138"
-    display: ""
-  highlight: 1
+
