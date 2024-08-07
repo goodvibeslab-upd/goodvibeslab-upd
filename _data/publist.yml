@@ -4,7 +4,7 @@
   link:
     url: "http://dx.doi.org/10.2139/ssrn.4736138"
     display: "Available at SSRN 4736138 (2024)."
-  highlight:
+  highlight: 0
 
 - title: "Complementary Pocket and Network-Based Approach to Search for Spike Protein Allosteric Pocket Sites"
   image: 2023_cheng.jpeg
@@ -48,4 +48,4 @@
   link:
     url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247289"
     display: "Plos one, 16(5), p.e0247289."
-  highlight:
+  highlight: 0
