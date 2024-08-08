@@ -27,7 +27,7 @@
 - title: "The role of glycerol–water mixtures in the stability of FKBP12-rapalog-FRB complexes"
   image: 2023_shua.jpg
   description: ""
-  authors: "Joshua Jener Lopez, Jokent Gaza, and Ricky Nellas."
+  authors: "Joshua Jener Lopez, Jokent Gaza, and Ricky Nellas"
   link:
     url: "https://doi.org/10.1016/j.jmgm.2023.108556"
     display: "Journal of Molecular Graphics and Modelling, 124, p.108556"
@@ -36,7 +36,7 @@
 - title: "Specificity of Monoterpene Interactions with Insect Octopamine and Tyramine Receptors: Insights from in Silico Sequence and Structure Comparison"
   image: 2023_ocampo.jpeg
   description: ""
-  authors: "Almira Ocampo, Joseph Gregory Cabinta, Hyvi Valerie Padilla, Eizadora Yu, and Ricky Nellas."
+  authors: "Almira Ocampo, Joseph Gregory Cabinta, Hyvi Valerie Padilla, Eizadora Yu, and Ricky Nellas"
   link:
     url: "https://pubs.acs.org/doi/full/10.1021/acsomega.2c06256"
     display: "ACS omega, 8(4), pp.3861-3871"
@@ -260,11 +260,111 @@
   link:
     url: "https://iopscience.iop.org/article/10.1088/1478-3975/10/2/026005/meta"
     display: "Physical biology, 10(2), p.026005"
+  highlight: 0
+
+- title: "Solvent-Dependent Gating Motions of an Extremophilic Lipase from Pseudomonas aeruginosa"
+  image: 2012_nellas.jpeg
+  description: ""
+  authors: "Quentin R. Johnson, Ricky B. Nellas, Tongye Shen"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/bi300557y"
+    display: "Biochemistry, 51(31), pp.6238-6245"
+  highlight: 1
+
+- title: "High-pressure effect on the dynamics of solvated peptides"
+  description: ""
+  authors: "Ricky B. Nellas; Mary M. Glover; Donald Hamelberg; Tongye Shen"
+  link:
+    url: "https://doi.org/10.1063/1.3700183"
+    display: "The Journal of Chemical Physics, 136(14)"
+  highlight: 0
+
+- title: "Stability and Sugar Recognition Ability of Ricin-like Carbohydrate Binding Domains"
+  description: ""
+  authors: "Jianzhuang Yao, Ricky B. Nellas, Mary M. Glover, Tongye Shen"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/bi102021p"
+    display: "Biochemistry, 50(19), pp.4097-4104"
+  highlight: 0
+
+
+- title: "Exploring the discrepancies between experiment, theory, and simulation for the homogeneous gas-to-liquid nucleation of 1-pentanol"
+  description: ""
+  authors: "Ricky B. Nellas; Samuel J. Keasler; J. Ilja Siepmann; Bin Chen"
+  link:
+    url: "https://doi.org/10.1063/1.3368116"
+    display: "The Journal of chemical physics, 132(16)"
+  highlight: 0
+
+
+- title: "Fractal Aggregates in Protein Crystal Nucleation"
+  description: ""
+  authors: "Bin Chen, Ricky B. Nellas, Samuel J. Keasler"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/jp8002728"
+    display: "The Journal of Physical Chemistry B, 112(15), pp.4725-4730"
+  highlight: 0
+
+
+- title: "An Aggregation-Volume-Bias Monte Carlo Investigation on the Condensation of a Lennard-Jones Vapor below the Triple Point and Crystal Nucleation in Cluster Systems:  An In-Depth Evaluation of the Classical Nucleation Theory"
+  description: ""
+  authors: "Bin Chen, Hyunmi Kim, Samuel J. Keasler, Ricky B. Nellas"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/jp709693g"
+    display: "The Journal of Physical Chemistry B, 112(13), pp.4067-4078"
+  highlight: 0
+
+
+- title: "Molecular Content and Structure of Aqueous Organic Nanodroplets from the Vapor−Liquid Nucleation Study of the Water/n-Nonane/1-Alcohol Series"
+  description: ""
+  authors: "Ricky B. Nellas, Samuel J. Keasler, Bin Chen"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/jp711452r"
+    display: "The Journal of Physical Chemistry A, 112(13), pp.2930-2939"
+  highlight: 0
+
+- title: "Towards understanding the nucleation mechanism for multi-component systems: an atomistic simulation of the ternary nucleation of water/n-nonane/1-butanol"
+  description: ""
+  authors: "Ricky B. Nellas, Bin Chen"
+  link:
+    url: "https://pubs.rsc.org/en/content/articlelanding/2008/cp/b713189e/unauth"
+    display: "Physical Chemistry Chemical Physics, 10(4), pp.506-514"
+  highlight: 0
+
+- title: "Dumbbells and onions in ternary nucleation"
+  image: 2008_dumbbell.jpg
+  description: ""
+  authors: "Ricky B. Nellas, Bin Chen and J. Ilja Siepmann"
+  link:
+    url: "https://doi.org/10.1039/B705385A"
+    display: "Physical Chemistry Chemical Physics, 9(22), pp.2779-2781"
   highlight: 1
 
 
+- title: "Water mediated attraction between repulsive ions: A cluster-based simulation approach"
+  description: ""
+  authors: "Samuel J. Keasler; Ricky B. Nellas; Bin Chen"
+  link:
+    url: "https://doi.org/10.1063/1.2338316"
+    display: "The Journal of chemical physics, 125(14)"
+  highlight: 0
+  
 
+- title: "Probing the Nucleation Mechanism for the Binary n-Nonane/1-Alcohol Series with Atomistic Simulations"
+  description: ""
+  authors: "Ricky B. Nellas, Matthew E. McKenzie, Bin Chen"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/jp062388b"
+    display: "The Journal of Physical Chemistry B, 110(37), pp.18619-18628"
+  highlight: 0
 
+- title: "[6,6′-Bis­(chloro­meth­yl)-2,2′-bipyrid­yl]­dichloro­cobalt(II)"
+  description: ""
+  authors: "R. B. Nellas, F. R. Fronczek, G. R. Newkome, S. F. Watkins and Y. Xia"
+  link:
+    url: "https://doi.org/10.1107/S1600536806021362"
+    display: "Acta Crystallographica Section E: Structure Reports Online, 62(7), pp.m1522-m1523"
+  highlight: 0
 
 
 
