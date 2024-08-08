@@ -218,6 +218,50 @@
     display: "Proteins: Structure, Function, and Bioinformatics, 84(6), pp.820-827"
   highlight: 0
 
+- title: "Mapping allostery through computational glycine scanning and correlation analysis of Residue–Residue contacts"
+  description: ""
+  authors: "Quentin R. Johnson, Richard J. Lindsay, Elias J. Fernandez, Ricky B. Nellas, Tongye Shen"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/bi501152d"
+    display: "Biochemistry, 54(7), pp.1534-1541"
+  highlight: 0
+
+- title: "Effects of Branched O-Glycosylation on a Semiflexible Peptide Linker"
+  image: 2014_nellas.jpeg
+  description: ""
+  authors: "Quentin R. Johnson, Richard J. Lindsay, Sherin R. Raval, Jeremy S. Dobbs, Ricky B. Nellas, Tongye Shen"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/jp410788r"
+    display: "The Journal of Physical Chemistry B, 118(8), pp.2050-2057"
+  highlight: 1
+
+- title: "Nucleation Dynamics of Active Particles"
+  image: 2013_nellas.jpeg
+  description: ""
+  authors: "Tongye Shen, Xianghong Qi, Ricky B. Nellas"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/jp402024s"
+    display: "The Journal of Physical Chemistry B, 117(42), pp.12844-12849"
+  highlight: 1
+
+
+- title: "Solvent-Induced α- to 310-Helix Transition of an Amphiphilic Peptide"
+  image: 2013_ampiphilic.jpeg
+  description: ""
+  authors: "Ricky B. Nellas, Quentin R. Johnson, Tongye Shen"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/bi400537z"
+    display: "Biochemistry, 52(40), pp.7137-7144"
+  highlight: 1
+
+- title: "Swimming motility plays a key role in the stochastic dynamics of cell clumping"
+  description: ""
+  authors: "Xianghong Qi, Ricky B Nellas, Matthew W Byrn, Matthew H Russell, Amber N Bible, Gladys Alexandre and Tongye Shen"
+  link:
+    url: "https://iopscience.iop.org/article/10.1088/1478-3975/10/2/026005/meta"
+    display: "Physical biology, 10(2), p.026005"
+  highlight: 1
+
 
 
 
