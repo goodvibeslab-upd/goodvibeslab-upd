@@ -1,6 +1,6 @@
 - title: "Interpretable Ensemble Classifiers for Reliable Prediction of Antibacterial Activities of Peptides Against Escherichia Coli and Staphylococcus Aureus"
   description: ""
-  authors: "Remmer Salas, Portia Mahal Sabido, and Ricky B. Nellas."
+  authors: "Remmer Salas, Portia Mahal Sabido, and Ricky Nellas."
   link:
     url: "http://dx.doi.org/10.2139/ssrn.4736138"
     display: "Available at SSRN 4736138 (2024)."
@@ -18,7 +18,7 @@
 - title: "Reparameterization of Non-Bonded Parameters for Copper Ions in Plastocyanin: An Adaptive Force Matching Study"
   image: 2023_gaza_copper.jpeg
   description: ""
-  authors: "Jokent Gaza, Ricky B. Nellas"
+  authors: "Jokent Gaza, Ricky Nellas"
   link:
     url: "https://doi.org/10.1021/acs.jcim.3c00559"
     display: "Journal of Chemical Information and Modeling, 63(15), pp.4654-4663"
@@ -33,13 +33,22 @@
     display: "Journal of Molecular Graphics and Modelling, 124, p.108556"
   highlight: 1
 
-- title: "Specificity of Monoterpene Interactions with Insect Octopamine and Tyramine Receptors: Insights from in Silico Sequence and Structure Comparison."
+- title: "Specificity of Monoterpene Interactions with Insect Octopamine and Tyramine Receptors: Insights from in Silico Sequence and Structure Comparison"
   image: 2023_ocampo.jpeg
   description: ""
   authors: "Almira Ocampo, Joseph Gregory Cabinta, Hyvi Valerie Padilla, Eizadora Yu, and Ricky Nellas."
   link:
     url: "https://pubs.acs.org/doi/full/10.1021/acsomega.2c06256"
     display: "ACS omega, 8(4), pp.3861-3871"
+  highlight: 1
+
+- title: "Identification of Inhibitors of the Schistosoma mansoni VKR2 Kinase Domain"
+  image: 2022_mathavan.jpeg
+  description: ""
+  authors: "Indran Mathavan, Lawrence J. Liu, Sean W. Robinson, Nelly El-Sakkary, Adam Jo J. Elatico, Darwin Gomez, Ricky Nellas, Raymond J. Owens, William Zuercher, Iva Navratilova, Conor R. Caffrey, and Konstantinos Beis"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/acsmedchemlett.2c00248"
+    display: "ACS Medicinal Chemistry Letters, 13(11), pp.1715-1722"
   highlight: 1
 
 - title: "Sustainable hues: Exploring the molecular palette of biowaste dyes through LC-MS metabolomics"
@@ -85,7 +94,6 @@
     display: "Biophysical Journal, 120(3), p.299a"
   highlight: 0
 
-
 - title: "Computational reverse engineering of the lipase from Pseudomonas aeruginosa PAO1: α-helices"
   description: ""
   authors: "Adam Jo Elatico and Ricky Nellas"
@@ -93,5 +101,65 @@
     url: "https://doi.org/10.1016/j.jmgm.2020.107657"
     display: "Journal of Molecular Graphics and Modelling, 100, p.107657"
   highlight: 0
+
+
+- title: "Identification of Conomarphin Variants in the Conus eburneus Venom and the Effect of Sequence and PTM Variations on Conomarphin Conformations"
+  description: ""
+  authors: "Corazon Ericka Mae Itang, Jokent Gaza, Dan Jethro Masacupan, Dessa Camille Batoctoy, Yu-Ju Chen, Ricky Nellas and Eizadora Yu"
+  link:
+    url: "https://doi.org/10.3390/md18100503"
+    display: "Marine drugs, 18(10), p.503"
+  highlight: 0
+
+- title: "The interaction and mechanism of monoterpenes with tyramine receptor (SoTyrR) of rice weevil (Sitophilus oryzae)"
+  description: ""
+  authors: "Almira Ocampo, Mac Kevin Braza, and Ricky Nellas"
+  link:
+    url: "https://doi.org/10.1007/s42452-020-03395-6"
+    display: "SN Applied Sciences, 2, pp.1-9"
+  highlight: 0
+
+- title: "Structural dynamics of neighboring water molecules of N-isopropylacrylamide pentamer"
+  description: ""
+  authors: "Kenee Kaiser Custodio, Gil Claudio, and Ricky Nellas"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/acsomega.9b02898"
+    display: "ACS omega, 5(3), pp.1408-1413"
+  highlight: 0
+
+- title: "Potential Inhibitors of Galactofuranosyltransferase 2 (GlfT2): Molecular Docking, 3D-QSAR, and In Silico ADMETox Studies"
+  description: ""
+  authors: "Christopher Llynard Ortiz, Gladys Completo, Ruel Nacario, and Ricky Nellas"
+  link:
+    url: "https://doi.org/10.1038/s41598-019-52764-8"
+    display: "Scientific reports, 9(1), p.17096"
+  highlight: 0
+
+- title: "Ligand-Induced Conformational Dynamics of A Tyramine Receptor from Sitophilus oryzae"
+  description: ""
+  authors: "Mac Kevin Braza, Jerrica Dominique Gazmen, Eizadora Yu, and Ricky Nellas"
+  link:
+    url: "https://www.nature.com/articles/s41598-019-52478-x"
+    display: "Scientific reports, 9(1), p.16275"
+  highlight: 0
+
+- title: "Conformational dynamics of α-conotoxin PnIB in complex solvent systems"
+  image: 2019_gaza.jpg
+  description: ""
+  authors: "Jokent T. Gaza, Abdul-Rashid B. Sampaco III, Kenee Kaiser S. Custodio, and Ricky Nellas"
+  link:
+    url: "https://link.springer.com/article/10.1007/s11030-019-09993-w"
+    display: "Molecular Diversity, 24(4), pp.1291-1299"
+  highlight: 1
+
+- title: "Machine learning for predicting electron transfer coupling"
+  image: 2019_braza.jpeg
+  description: ""
+  authors: "Chun-I Wang, Mac Kevin Braza, Gil Claudio, Ricky Nellas, Chao-Ping Hsu*"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/acs.jpca.9b04256"
+    display: "The Journal of Physical Chemistry A, 123(36), pp.7792-7802"
+  highlight: 1
+
 
 
