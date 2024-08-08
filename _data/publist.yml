@@ -155,11 +155,73 @@
 - title: "Machine learning for predicting electron transfer coupling"
   image: 2019_braza.jpeg
   description: ""
-  authors: "Chun-I Wang, Mac Kevin Braza, Gil Claudio, Ricky Nellas, Chao-Ping Hsu*"
+  authors: "Chun-I Wang, Mac Kevin Braza, Gil Claudio, Ricky Nellas, Chao-Ping Hsu"
   link:
     url: "https://pubs.acs.org/doi/full/10.1021/acs.jpca.9b04256"
     display: "The Journal of Physical Chemistry A, 123(36), pp.7792-7802"
   highlight: 1
+
+- title: "In silico insights on enhancing thermostability and activity of a plant fructosyltransferase from pachysandra terminalis via introduction of disulfide bridges"
+  description: ""
+  authors: "Christopher Llynard Ortiz, Hosea Matel, Ricky Nellas"
+  link:
+    url: "https://doi.org/10.1016/j.jmgm.2019.03.021"
+    display: "Journal of Molecular Graphics and Modelling, 89, pp.250-260"
+  highlight: 0
+
+- title: "Surface tension data of n-propane, n-octane and n-dodecane from nucleation simulations"
+  description: ""
+  authors: "Zamantha Nadir Martin, Imee Martinez, and Ricky Nellas"
+  link:
+    url: "https://doi.org/10.1080/16000889.2018.1463807"
+    display: "Tellus B: Chemical and Physical Meteorology, 70(1), pp.1-5"
+  highlight: 0
+
+- title: "Effects of truncation of the peptide chain on the secondary structure and bioactivities of palmitoylated anoplin"
+  description: ""
+  authors: "Remmer Salas, Jan Kathryne Garcia, Ana Carmela Miranda, Windell Rivera, Ricky Nellas, and Portia Mahal Sabido"
+  link:
+    url: "https://doi.org/10.1016/j.peptides.2018.03.019"
+    display: "Peptides, 104, pp.7-14"
+  highlight: 0
+
+- title: "Molecular Affinity of Mabolo Extracts to an Octopamine Receptor of a Fruit Fly"
+  description: ""
+  authors: "Francoise Neil Dacanay, Ma. Carmina Joyce Ladra, Hiyas Junio, and Ricky Nellas"
+  link:
+    url: "https://doi.org/10.3390/molecules22101677"
+    display: "Molecules, 22(10), p.1677"
+  highlight: 0
+
+- title: "DMSO enhanced conformational switch of an interfacial enzyme"
+  description: ""
+  authors: "Richard J. Lindsay, Quentin R. Johnson, Wilfredo Evangelista, Ricky B. Nellas, Tongye Shen"
+  link:
+    url: "https://doi.org/10.1002/bip.22924"
+    display: "Biopolymers, 105(12), pp.864-872"
+  highlight: 0
+
+- title: "The Promiscuity of Allosteric Regulation of Nuclear Receptors by Retinoid X Receptor"
+  image: 2016_nellas.jpeg
+  description: ""
+  authors: "Alexander K. Clark, J. Heath Wilder, Aaron W. Grayson, Quentin R. Johnson, Richard J. Lindsay, Ricky B. Nellas, Elias J. Fernandez, Tongye Shen"
+  link:
+    url: "https://pubs.acs.org/doi/full/10.1021/acs.jpcb.6b02057"
+    display: "The Journal of Physical Chemistry B, 120(33), pp.8338-8345"
+  highlight: 1
+
+- title: "Pressure-induced conformational switch of an interfacial protein"
+  description: ""
+  authors: "Quentin R. Johnson, Richard J. Lindsay, Ricky B. Nellas, Tongye Shen"
+  link:
+    url: "https://doi.org/10.1002/prot.25031"
+    display: "Proteins: Structure, Function, and Bioinformatics, 84(6), pp.820-827"
+  highlight: 0
+
+
+
+
+
 
 
 
