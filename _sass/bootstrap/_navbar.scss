@@ -9,8 +9,6 @@
 // other navbar variations.
 
 .navbar {
-  background-color: #F3B0C3; // give maroon theme
-  color: #FFFFFF;
   position: relative;
   min-height: $navbar-height; // Ensure a navbar always shows (e.g., without a .navbar-brand in collapsed mode)
   margin-bottom: $navbar-margin-bottom;
