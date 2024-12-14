@@ -366,7 +366,7 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #1f2124 !default;
+$navbar-default-bg:                #000035 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
@@ -711,7 +711,7 @@ $panel-border-radius:         $border-radius-base !default;
 
 //** Border color for elements within panels
 $panel-inner-border:          transparent !default;
-$panel-footer-bg:             #f5f5f5 !default;
+$panel-footer-bg:             #000035 !default;
 
 $panel-default-text:          $gray-dark !default;
 $panel-default-border:        transparent !default;
