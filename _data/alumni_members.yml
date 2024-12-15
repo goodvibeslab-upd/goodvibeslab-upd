@@ -1,96 +1,109 @@
 - name: Jokent T. Gaza
   photo: jokent.png
-  duration: 2015 - 2023, now PhD student at University of Florida
+  duration: 2015 - 2023
   info: Lab manager from 2021 to 2023.
   email: jtgaza@up.edu.ph
   number_educ: 3
   education1: BSc Chemistry at UPD
   education2: MSc Chemistry at UPD
-  education3: PhD Chemistry at University of Florida
+  education3: PhD Chemistry at the University of Florida (current)
   education4:
 
 - name: Mac Kevin E. Braza
   photo: kevin.jpg
-  duration: 2017 - 2019, now PhD student at University of California San Diego
+  duration: 2017 - 2019
   info: Lab manager from 2019 to 2020
   email: mebraza@up.edu.ph
   number_educ: 3
   education1: BSc Chemistry at UP Los Baños
   education2: MSc Chemistry at UPD
-  education3: PhD Chemistry at University of California San Diego
+  education3: PhD Chemistry at the University of California San Diego (current)
   education4:
 
-- name: Pete Gabriel L. Ledesma
+- name: Pete Gabriel Ledesma
   photo: pete.png
-  duration: 2019 - 2022, now PhD student at University of Minnesota
+  duration: 2019 - 2022
   info: BS Chemistry student
   email: plledesma@up.edu.ph
   number_educ: 2
   education1: BSc Chemistry at UP Diliman
-  education2: PhD Chemistry (straight program) at the University of Minnesota
+  education2: PhD Chemistry at the University of Minnesota (current)
 
 - name: Darwin Gomez
   photo: darwin.jpg
-  duration: 2015 - 2020, now PhD student at Virginia Teach
+  duration: 2015 - 2020
   info: MS Chemistry student
   number_educ: 2
   education1: MSc Chemistry at UP Diliman
-  education2: Doctor of Science at Virginia Tech
+  education2: Doctor of Science at Virginia Tech (current)
 
 - name: Lee Roy De Velez
   photo: lee.jpg
-  duration: 2021 - 2023, now MSc student at University of Wollongong
+  duration: 2021 - 2023
   info: Research Assistant
   number_educ: 1
   education1: BSc Biochemistry at UP Manila
+  education2: MSc Medical Biotechnology at the University of Wollongong (current)
 
 - name: Ronny Cheng
   photo: ronny.png
-  duration: 2015 - 2023, now PhD student at the University of Shenzen Hong Kong
+  duration: 2015 - 2023, now 
   info: Science Research Specialist
   number_educ: 2
-  education1: MSc Chemistry at Xiamen University
-  education2: BSc Chemistry at UP Diliman
+  education1: BSc Chemistry at UP Diliman
+  education2: MSc Chemistry at Xiamen University
+  education3: PhD student at the University of Shenzen Hong Kong (current)
+  
 
 - name: Christopher Llynard Ortiz
   photo: llynard.jpg
-  duration: 2016 - 2019, now PhD student at Academia Sinica
+  duration: 2016 - 2019
   info: Research Assistant
   number_educ: 1
-  education1: BSc Chemistry at UP Los Banos
+  education1: BSc Chemistry at UP Los Baños
+  education2: PhD student at Academia Sinica (current)
+
+- name: Jherome Brylle Woody Santos
+  photo: woody.jpg
+  duration: 2023 - 2024
+  info: BS Chemistry student
+  email: plledesma@up.edu.ph
+  number_educ: 2
+  education1: BSc Chemistry at UP Diliman
+  education2: PhD Chemistry at the University of Florida (current)
   
 - name: Jerwin Quirante
   photo: jerwin.jpg
   duration: 2021 - 2024
   info: MS Chemistry Student
   number_educ: 2
-  education1: MSc Chemistry at UP Diliman
-  education2: BSc Chemistry at UP Los Banos
-
+  education1: BSc Chemistry at UP Los Baños
+  education2: MSc Chemistry at UP Diliman
+  
 
 - name: Jaidriel Meg Cabanding
   photo: meg.png
   duration: 2017 - 2023
   info: MS Chemistry Student
   number_educ: 2
-  education1: MSc Chemistry at UP Diliman
-  education2: BSc Chemistry at Tarlac State University
-
+  education1: BSc Chemistry at Tarlac State University
+  education2: MSc Chemistry at UP Diliman
+  
 - name: Windol Charls Santos
   photo: windol.jpg
   duration: 2016 - 2021
   info: MS Chemistry Student
   number_educ: 2
-  education1: MSc Chemistry at UP Diliman
-  education2: BSc Chemistry at UP Diliman
+  education1: BSc Chemistry at UP Diliman
+  education2: MSc Chemistry at UP Diliman
 
 - name: Abdul-Rashid Sampaco III
   photo: logo.jpg
   duration: 2016 - 2021
   info: MS Chemistry Student
   number_educ: 2
-  education1: MSc Chemistry at UP Diliman
-  education2: BSc Chemistry at UP Manila
+  education1: BSc Chemistry at UP Manila
+  education2: MSc Chemistry at UP Diliman
   
 #- name: Gijsbert Verdoes
 #  photo: verdoes.jpg
