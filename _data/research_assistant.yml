@@ -1,1 +1,44 @@
+- name: Mark Lester Galicia
+  photo: lester.jpg
+  info: "MS Chemistry student, started 2023"
+  email: mcgalicia@up.edu.ph
+  
+- name: Jeffrey Clement Bungar
+  photo: jeff.jpg
+  info: "MS Chemistry student, started 2022"
+  email: jcbungar1@up.edu.ph
+  
+- name: Mervin June Gasatan
+  photo: logo.jpg
+  info: "MS Chemistry student, started 2022"
+  email:  mbgasatan@up.edu.ph
+  
+- name: Angela Barbra Dela
+  photo: logo.jpg
+  info: "BS Chemistry student, started 2023"
+  email: abdela@up.edu.ph
 
+- name: Franz Jabin Garcia
+  photo: logo.jpg
+  info: "BS Chemistry student, started 2023"
+  email: fcgarcia4@up.edu.ph
+
+- name: Ramon Jr Britania
+  photo: logo.jpg
+  info: "BS Chemistry student, started 2023"
+  email: rabritania4@up.edu.ph
+
+- name: Raphael Alfonso Apolto
+  photo: logo.jpg
+  info: "BS Chemistry student, started 2023"
+  email: rpapolto@up.edu.ph
+  
+- name: Jefferson Dio
+  photo: logo.jpg
+  info: "BS Chemistry student, started 2024"
+  email: jadio@up.edu.ph
+
+- name: Sophie Jill Lee
+  photo: logo.jpg
+  info: "BS Chemistry student, started 2024"
+  email: stlee1@up.edu.ph
