@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), and [Research Asisstants](#Reasearch-Assistant).
+Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), and [alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}
