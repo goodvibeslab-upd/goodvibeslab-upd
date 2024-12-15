@@ -4,8 +4,8 @@
   info: Lab manager from 2021 to 2023.
   email: jtgaza@up.edu.ph
   number_educ: 3
-  education1: BSc Chemistry at UPD
-  education2: MSc Chemistry at UPD
+  education1: BSc Chemistry at UP Diliman
+  education2: MSc Chemistry at UP Diliman
   education3: PhD Chemistry at the University of Florida (current)
 
 - name: Mac Kevin E. Braza
@@ -15,7 +15,7 @@
   email: mebraza@up.edu.ph
   number_educ: 3
   education1: BSc Chemistry at UP Los Baños
-  education2: MSc Chemistry at UPD
+  education2: MSc Chemistry at UP Diliman
   education3: PhD Chemistry at the University of California San Diego (current)
 
 - name: Pete Gabriel Ledesma
@@ -97,7 +97,7 @@
 
 - name: Abdul-Rashid Sampaco III
   photo: rashid.jpg
-  duration: 2016 - 2021
+  duration: 2016 - 2022
   info: MS Chemistry Student
   number_educ: 2
   education1: BSc Biochemistry at UP Manila
@@ -106,7 +106,7 @@
 
 - name: Donnifer Jr. Reyes
   photo: donnie.jpg
-  info: MSc Chemistry student and Instructor, started 2022
+  info: MSc Chemistry student and Instructor, 2022-2024
   email: dvreyes@up.edu.ph
   number_educ: 2
   education1: BSc Chemistry at UP Diliman
@@ -114,7 +114,7 @@
 
 - name: Joseph Gregory Cabinta
   photo: iggy.png
-  info: MSc Chemistry student and research assistant, started 2019
+  info: MSc Chemistry student and research assistant, 2019-2024
   email: jzcabinta1@up.edu.ph
   number_educ: 2
   education1: BSc Chemistry at UP Diliman
