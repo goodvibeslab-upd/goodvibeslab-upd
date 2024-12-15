@@ -100,7 +100,24 @@
   duration: 2016 - 2021
   info: MS Chemistry Student
   number_educ: 2
-  education1: BSc Chemistry at UP Manila
+  education1: BSc Biochemistry at UP Manila
+  education2: MSc Chemistry at UP Diliman
+
+
+- name: Donnifer Jr. Reyes
+  photo: donnie.jpg
+  info: MSc Chemistry student and Instructor, started 2022
+  email: dvreyes@up.edu.ph
+  number_educ: 1
+  education1: BSc Chemistry at UP Diliman
+  education2: MSc Chemistry at UP Diliman
+
+- name: Joseph Gregory Cabinta
+  photo: iggy.png
+  info: MSc Chemistry student and research assistant, started 2019
+  email: jzcabinta1@up.edu.ph
+  number_educ: 2
+  education1: BSc Chemistry at UP Diliman
   education2: MSc Chemistry at UP Diliman
   
 #- name: Gijsbert Verdoes
