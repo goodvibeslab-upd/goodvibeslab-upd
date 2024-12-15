@@ -38,14 +38,7 @@
   email: mtperalis@up.edu.ph
   number_educ: 1
   education1: BSc Chemistry at PUP
-  
-- name: Donnifer Jr. Reyes
-  photo: donnie.jpg
-  info: MSc Chemistry student and Instructor, started 2022
-  email: dvreyes@up.edu.ph
-  number_educ: 1
-  education1: BSc Chemistry at UP Diliman
-
+    
 
 - name: James Peter  Lim
   photo: james.jpg
@@ -61,12 +54,7 @@
   number_educ: 1
   education1: BSc Pharmacy at UP Manila
 
-- name: Joseph Gregory Cabinta
-  photo: iggy.png
-  info: MSc Chemistry student and former research assistant, started 2022
-  email: jzcabinta1@up.edu.ph
-  number_educ: 1
-  education1: BSc Chemistry at UP Diliman
+
 
 - name: Almira Ocampo
   photo: almira.png
