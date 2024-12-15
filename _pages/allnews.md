@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "good ViBEs Lab at UPD."
 sitemap: false
-permalink: /allnews.html
+permalink: /allnews/
 ---
 
 # News
