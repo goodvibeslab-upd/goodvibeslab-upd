@@ -1,20 +1,31 @@
 - name: John Alfon Francisco
   photo: alfon.jpg
-  info: Science Research Specialist II (COVID Project) 2023-2024
+  info: Science Research Specialist (COVID Project) 2023-2024
 
 - name: Kimberly Denura
-  photo: alfon.jpg
+  photo: kim.png
   info: Project Assistant (DDHP Project) 2015-2023
 
-- name: Abigael Gatchalian
-  photo: abi.jpg
-  info: Science Research Specialist II (COVID Project) 2022-2023
+- name: Ian Lee Pepito
+  photo: il.png
+  info: Project Assistant (COVID Project) 2021-2023
 
-- name: Adrian Josiah Cheng
-  photo: adrian_cheng.jpg
-  info: Project Assistant (COVID Project) 2022
+- name: Abigael Gatchalian
+  photo: abi.png
+  info: Science Research Specialist (COVID Project) 2022-2023
 
 - name: Mark Andrew Mendoza
-  photo: andrew.jpg
-  info: Science Research Specialist II (COVID Project) 2021-2022
+  photo: andrew.png
+  info: Science Research Specialist (COVID Project) 2021-2022
+
+- name: Adrian Josiah Cheng
+  photo: adrian.png
+  info: Project Assistant (COVID Project) 2022
+
+- name: Hyvi Valerie Padilla
+  photo: hyvi.PNG
+  info: Science Research Specialist (DA-Biotech) 2023
+
+
+
   
