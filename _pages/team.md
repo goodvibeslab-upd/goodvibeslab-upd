@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), and [former Research Asisstant](#former-RA).
+Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), and [Research Asisstants](#Reasearch-Assistant).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -184,7 +184,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Former Research Assistants
+## Research Assistant
 {% assign number_printed = 0 %}
 {% for member in site.data.research_assistant %}
 
