@@ -1,4 +1,4 @@
-- name: Ricky B. Nellas
+- name: Ricky B. Nellas, R.Ch., Ph.D.
   photo: RBNellas_photo.jpg
   info: "**Principal Investigator**, Professor III, started 2014"
   email: rbnellas@up.edu.ph
@@ -8,7 +8,7 @@
   education3: "Postdoc at University of Tennessee Knoxville; under Dr. Tongye Shen"
   education4: Executive Director at <a href="https://isc.up.edu.ph/">UPD Intelligent Systems Center</a>
 
-- name: Gardee T. Peña
+- name: Gardee T. Peña, M.Sc.
   photo: gardee.png
   info: "PhD Chemistry student, started 2021"
   email: gtpena1@up.edu.ph
@@ -16,7 +16,7 @@
   education1: BSc Chemistry at UP Los Baños
   education2: MSc Chemistry, Minor in Agricultural Chemistry at UP Los Baños
   
-- name: Remmer L. Salas
+- name: Remmer L. Salas, M.Sc.
   photo: remmer.png
   info: "PhD Chemistry student, started 2019"
   email: rlsalas@up.edu.ph
@@ -25,14 +25,14 @@
   education2: "MSc Chemistry at UP Diliman"
   education3: "Currently Instructor at Visayas State University"
 
-- name: Joshua Gener Lopez
+- name: Joshua Gener Lopez, R.Ch.
   photo: shua.png
   info: PhD Chemistry student and Instructor, started 2022
   email: jdlopez7@up.edu.ph
   number_educ: 1
   education1: BSc Chemistry at UP Diliman
 
-- name: Marie Dale Peralis
+- name: Marie Dale Peralis, R.Ch.
   photo: dale.png
   info: MSc Chemistry student and Instructor, started 2022
   email: mtperalis@up.edu.ph
@@ -47,16 +47,14 @@
   number_educ: 1
   education1: BSc Chemistry at UP Diliman
 
-- name: Myrnel Almoradie-Fortuna
+- name: Myrnel Almoradie-Fortuna, R.Ph.
   photo: nelly.jpg
   info: MSc Chemistry student and Lab Manager, started 2021
   email: mdalmoradie@up.edu.ph
   number_educ: 1
   education1: BSc Pharmacy at UP Manila
 
-
-
-- name: Almira Ocampo
+- name: Almira Ocampo, R.Ch.
   photo: almira.png
   info: MSc Chemistry student and former research assistant, started 2021
   email: abocampo@up.edu.ph
