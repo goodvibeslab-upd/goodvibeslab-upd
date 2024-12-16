@@ -10,10 +10,9 @@ permalink: /pictures/
 
 ## Table of Contents
 
-- [Pictures](#pictures)
-  - [Conferences and Meetings](#conferences-and-meetings)
-  - [Thesis Defense](#thesis-defense)
-  - [ViBEs](#vibes)
+- [Conferences and Meetings](#conferences-and-meetings)
+- [Thesis Defense](#thesis-defense)
+- [ViBEs](#vibes)
 
 ## Conferences and Meetings
 
