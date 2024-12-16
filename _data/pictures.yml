@@ -10,9 +10,9 @@
 - title: donnie
   image: 4.jpg
   occasion: Thesis Defense
-- title: jerwin
-  image: 5.jpg
-  occasion: Thesis Defense
+#- title: jerwin
+#  image: 5.jpg
+#  occasion: Thesis Defense
 - title: meg
   image: 7.jpg
   occasion: Thesis Defense
@@ -29,15 +29,15 @@
 - title: 3a
   image: 3a.jpg
   occasion: Conferences and Meetings
-- title: 4a
-  image: 4a.jpg
-  occasion: Conferences and Meetings
+#- title: 4a
+#  image: 4a.jpg
+#  occasion: Conferences and Meetings
 - title: 5a
   image: 5a.jpg
   occasion: Conferences and Meetings
-- title: 6a
-  image: 6a.jpg
-  occasion: Conferences and Meetings
+#- title: 6a
+#  image: 6a.jpg
+#  occasion: Conferences and Meetings
 - title: 7a
   image: 7a.jpg
   occasion: Conferences and Meetings
