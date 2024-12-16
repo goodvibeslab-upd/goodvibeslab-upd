@@ -15,20 +15,21 @@ permalink: /pictures/
 
 ## Conferences and Meetings
 
-{% assign number_printed = 0 %}
 <div class="row">
+{% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
-  {% assign even_odd = number_printed | modulo: 3 %}
   {% if pic.occasion == "Conferences and Meetings" %}
+    {% assign even_odd = number_printed | modulo: 3 %}
+    {% if even_odd == 0 and number_printed != 0 %}
+      </div> <!-- Close the previous row -->
+      <div class="row"> <!-- Start a new row -->
+    {% endif %}
     <div class="col-sm-4 clearfix">
       <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/conferences-and-meetings/{{ pic.image }}" data-lightbox="conferences-gallery">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/conferences-and-meetings/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/conferences-and-meetings/{{ pic.image }}" class="img-responsive" width="95%" />
       </a>
     </div>
     {% assign number_printed = number_printed | plus: 1 %}
-    {% if even_odd == 2 %}
-      </div><div class="row">
-    {% endif %}
   {% endif %}
 {% endfor %}
 </div>
@@ -37,20 +38,21 @@ permalink: /pictures/
 
 ## Thesis Defense
 
-{% assign number_printed = 0 %}
 <div class="row">
+{% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
-  {% assign even_odd = number_printed | modulo: 3 %}
   {% if pic.occasion == "Thesis Defense" %}
+    {% assign even_odd = number_printed | modulo: 3 %}
+    {% if even_odd == 0 and number_printed != 0 %}
+      </div> <!-- Close the previous row -->
+      <div class="row"> <!-- Start a new row -->
+    {% endif %}
     <div class="col-sm-4 clearfix">
       <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/thesis-defense/{{ pic.image }}" data-lightbox="thesis-defense-gallery">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/thesis-defense/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/thesis-defense/{{ pic.image }}" class="img-responsive" width="95%" />
       </a>
     </div>
     {% assign number_printed = number_printed | plus: 1 %}
-    {% if even_odd == 2 %}
-      </div><div class="row">
-    {% endif %}
   {% endif %}
 {% endfor %}
 </div>
@@ -59,20 +61,22 @@ permalink: /pictures/
 
 ## ViBEs
 
-{% assign number_printed = 0 %}
 <div class="row">
+{% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
-  {% assign even_odd = number_printed | modulo: 3 %}
   {% if pic.occasion == "ViBEs" %}
+    {% assign even_odd = number_printed | modulo: 3 %}
+    {% if even_odd == 0 and number_printed != 0 %}
+      </div> <!-- Close the previous row -->
+      <div class="row"> <!-- Start a new row -->
+    {% endif %}
     <div class="col-sm-4 clearfix">
       <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/vibes/{{ pic.image }}" data-lightbox="vibes-gallery">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vibes/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vibes/{{ pic.image }}" class="img-responsive" width="95%" />
       </a>
     </div>
     {% assign number_printed = number_printed | plus: 1 %}
-    {% if even_odd == 2 %}
-      </div><div class="row">
-    {% endif %}
   {% endif %}
 {% endfor %}
 </div>
+
