@@ -80,5 +80,3 @@ permalink: /pictures/
 {% endfor %}
 </div>
 
-
-<p> &nbsp; </p>
