@@ -7,6 +7,16 @@ permalink: /pictures/
 
 # Pictures
 
+---
+title: "GoodViBEs Lab - Pictures"
+layout: piclay
+excerpt: "GoodViBEs Lab -- Pictures"
+permalink: /pictures/
+---
+
+# Pictures
+
+
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
 
@@ -15,14 +25,12 @@ permalink: /pictures/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-{% if pic.occasion == "mix" %}
 <div class="col-sm-4 clearfix">
   <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/mix/{{ pic.image }}" data-lightbox="mix-gallery">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/mix/{{ pic.image }}" class="img-responsive" width="98%" style="float: left" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/mix/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
   </a>
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
-{% endif %}
 {% if even_odd == 2 %}
 </div>
 {% endif %}
