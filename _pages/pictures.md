@@ -7,8 +7,6 @@ permalink: /pictures/
 
 # Pictures
 
-## Conferences and Meetings
-
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
 
