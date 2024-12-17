@@ -17,7 +17,7 @@ permalink: /pictures/
 {% endif %}
 {% if pic.occasion == "mix" %}
 <div class="col-sm-4 clearfix">
-  <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/mix/{{ pic.image }}" data-lightbox="conferences-gallery">
+  <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/mix/{{ pic.image }}" data-lightbox="mix-gallery">
     <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/mix/{{ pic.image }}" class="img-responsive" width="98%" style="float: left" />
   </a>
 </div>
