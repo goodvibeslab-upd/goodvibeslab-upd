@@ -28,7 +28,7 @@ permalink: /pictures/
 
 ## Conferences and Meetings
 
-<div class="row clearfix">
+<div class="row">
   {% assign number_printed = 0 %}
   {% for pic in site.data.pictures %}
     {% if pic.occasion == "Conferences and Meetings" %}
@@ -42,12 +42,12 @@ permalink: /pictures/
   {% endfor %}
 </div>
 
-<!-- Clear the float to avoid overlap with the next section -->
+<!-- Clear any float to avoid overlap -->
 <div class="clearfix"></div>
 
 ## Thesis Defense
 
-<div class="row clearfix">
+<div class="row">
   {% assign number_printed = 0 %}
   {% for pic in site.data.pictures %}
     {% if pic.occasion == "Thesis Defense" %}
@@ -61,12 +61,12 @@ permalink: /pictures/
   {% endfor %}
 </div>
 
-<!-- Clear the float to avoid overlap with the next section -->
+<!-- Clear any float to avoid overlap -->
 <div class="clearfix"></div>
 
 ## ViBEs
 
-<div class="row clearfix">
+<div class="row">
   {% assign number_printed = 0 %}
   {% for pic in site.data.pictures %}
     {% if pic.occasion == "ViBEs" %}
@@ -80,5 +80,5 @@ permalink: /pictures/
   {% endfor %}
 </div>
 
-<!-- Clear the float to avoid overlap with any following content -->
+<!-- Clear any float to avoid overlap -->
 <div class="clearfix"></div>
