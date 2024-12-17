@@ -26,14 +26,14 @@ permalink: /pictures/
   {% if pic.occasion == "Conferences and Meetings" %}
     <div class="col-sm-4">
       <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/conferences-and-meetings/{{ pic.image }}" data-lightbox="conferences-gallery">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/conferences-and-meetings/{{ pic.image }}" class="img-responsive" width="95%" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/conferences-and-meetings/{{ pic.image }}" class="img-responsive" width="100%" />
       </a>
     </div>
     {% assign number_printed = number_printed | plus: 1 %}
   {% endif %}
 
-  {% if forloop.last or even_odd == 2 %}
-    </div>
+  {% if even_odd == 2 %}
+    </div> <!-- Close the row after 3 images -->
   {% endif %}
 {% endfor %}
 
@@ -52,14 +52,14 @@ permalink: /pictures/
   {% if pic.occasion == "Thesis Defense" %}
     <div class="col-sm-4">
       <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/thesis-defense/{{ pic.image }}" data-lightbox="thesis-defense-gallery">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/thesis-defense/{{ pic.image }}" class="img-responsive" width="95%" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/thesis-defense/{{ pic.image }}" class="img-responsive" width="100%" />
       </a>
     </div>
     {% assign number_printed = number_printed | plus: 1 %}
   {% endif %}
 
-  {% if forloop.last or even_odd == 2 %}
-    </div>
+  {% if even_odd == 2 %}
+    </div> <!-- Close the row after 3 images -->
   {% endif %}
 {% endfor %}
 
@@ -78,14 +78,14 @@ permalink: /pictures/
   {% if pic.occasion == "ViBEs" %}
     <div class="col-sm-4">
       <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/vibes/{{ pic.image }}" data-lightbox="vibes-gallery">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vibes/{{ pic.image }}" class="img-responsive" width="95%" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vibes/{{ pic.image }}" class="img-responsive" width="100%" />
       </a>
     </div>
     {% assign number_printed = number_printed | plus: 1 %}
   {% endif %}
 
-  {% if forloop.last or even_odd == 2 %}
-    </div>
+  {% if even_odd == 2 %}
+    </div> <!-- Close the row after 3 images -->
   {% endif %}
 {% endfor %}
 
