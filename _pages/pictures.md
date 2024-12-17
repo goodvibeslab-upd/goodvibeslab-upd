@@ -33,8 +33,10 @@ permalink: /pictures/
     max-width: 100%; /* Ensure images scale properly */
   }
 
+  /* Add margin to headers to ensure space above them */
   h2 {
-    margin-top: 40px; /* Adds space above section headers */
+    margin-top: 50px; /* Adds space above section headers */
+    margin-bottom: 20px; /* Adds space below the headers */
   }
 </style>
 
