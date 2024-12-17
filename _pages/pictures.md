@@ -17,23 +17,20 @@ permalink: /pictures/
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
-  {% assign even_odd = number_printed | modulo: 3 %}
-
-  {% if even_odd == 0 %}
-    <div class="row">
-  {% endif %}
-
   {% if pic.occasion == "Conferences and Meetings" %}
+    {% if number_printed == 0 %}
+      <div class="row">
+    {% endif %}
     <div class="col-sm-4">
       <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/conferences-and-meetings/{{ pic.image }}" data-lightbox="conferences-gallery">
         <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/conferences-and-meetings/{{ pic.image }}" class="img-responsive" width="100%" />
       </a>
     </div>
     {% assign number_printed = number_printed | plus: 1 %}
-  {% endif %}
-
-  {% if even_odd == 2 %}
-    </div> <!-- Close the row after 3 images -->
+    {% if number_printed == 3 %}
+      </div> <!-- Close the row after 3 images -->
+      {% assign number_printed = 0 %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
@@ -43,23 +40,20 @@ permalink: /pictures/
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
-  {% assign even_odd = number_printed | modulo: 3 %}
-
-  {% if even_odd == 0 %}
-    <div class="row">
-  {% endif %}
-
   {% if pic.occasion == "Thesis Defense" %}
+    {% if number_printed == 0 %}
+      <div class="row">
+    {% endif %}
     <div class="col-sm-4">
       <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/thesis-defense/{{ pic.image }}" data-lightbox="thesis-defense-gallery">
         <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/thesis-defense/{{ pic.image }}" class="img-responsive" width="100%" />
       </a>
     </div>
     {% assign number_printed = number_printed | plus: 1 %}
-  {% endif %}
-
-  {% if even_odd == 2 %}
-    </div> <!-- Close the row after 3 images -->
+    {% if number_printed == 3 %}
+      </div> <!-- Close the row after 3 images -->
+      {% assign number_printed = 0 %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
@@ -69,23 +63,20 @@ permalink: /pictures/
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
-  {% assign even_odd = number_printed | modulo: 3 %}
-
-  {% if even_odd == 0 %}
-    <div class="row">
-  {% endif %}
-
   {% if pic.occasion == "ViBEs" %}
+    {% if number_printed == 0 %}
+      <div class="row">
+    {% endif %}
     <div class="col-sm-4">
       <a href="{{ site.url }}{{ site.baseurl }}/images/picpic/vibes/{{ pic.image }}" data-lightbox="vibes-gallery">
         <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vibes/{{ pic.image }}" class="img-responsive" width="100%" />
       </a>
     </div>
     {% assign number_printed = number_printed | plus: 1 %}
-  {% endif %}
-
-  {% if even_odd == 2 %}
-    </div> <!-- Close the row after 3 images -->
+    {% if number_printed == 3 %}
+      </div> <!-- Close the row after 3 images -->
+      {% assign number_printed = 0 %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
