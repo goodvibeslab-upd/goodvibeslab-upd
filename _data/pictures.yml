@@ -1,47 +1,50 @@
+//should be thesis defense
+
 - title: 2023_undergrad
   image: 1.jpg
-  occasion: Thesis Defense
+  occasion: mix
 - title: klidel
   image: 2.jpg
-  occasion: Thesis Defense
+  occasion: mix
 - title: iggy
   image: 3.jpg
-  occasion: Thesis Defense
+  occasion: mix
 - title: donnie
   image: 4.jpg
-  occasion: Thesis Defense
+  occasion: mix
 - title: jerwin
   image: 5.jpg
-  occasion: Thesis Defense
+  occasion: mix
 - title: meg
   image: 7.jpg
-  occasion: Thesis Defense
+  occasion: mix
 - title: jokent
   image: 8.jpg
-  occasion: Thesis Defense
+  occasion: mix
 
+// should be conferences and meetings
 - title: 1a
   image: 1a.jpg
-  occasion: Conferences and Meetings
+  occasion: mix
 - title: 2a
   image: 2a.jpg
-  occasion: Conferences and Meetings
+  occasion: mix
 - title: 3a
   image: 3a.jpg
-  occasion: Conferences and Meetings
+  occasion: mix
 - title: 4a
   image: 4a.jpg
-  occasion: Conferences and Meetings
+  occasion: mix
 - title: 5a
   image: 5a.jpg
-  occasion: Conferences and Meetings
+  occasion: mix
 - title: 6a
   image: 6a.jpg
-  occasion: Conferences and Meetings
+  occasion: mix
 - title: 7a
   image: 7a.jpg
-  occasion: Conferences and Meetings
+  occasion: mix
 - title: 8a
   image: 8a.jpg
-  occasion: Conferences and Meetings
+  occasion: mix
 
