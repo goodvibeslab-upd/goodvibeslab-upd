@@ -1,8 +1,5 @@
-<!-- Gallery HTML -->
-
 <div class="image-gallery">
-  {% assign sorted = site.static_files | sort: 'date' %}
-  {% for file in sorted %}
+  {% for file in site.static_files %}
     {% if file.path contains include.folder %}
       {% if file.path contains "picpic" %}
         {% if file.extname == '.jpg' or file.extname == '.png' %}
