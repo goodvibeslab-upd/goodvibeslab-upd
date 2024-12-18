@@ -31,14 +31,14 @@ At the GoodViBEs Lab, our research takes on a highly interdisciplinary approach,
  - DOST-PCHRD Grant “Computer-aided drug design of natural products-based, peptide-based, and synthetic antidiabetic, antifungal, and anticancer lead compounds and derivatives” **2019**
  - NSRI Grant “Modelling of Secondary Organic Aerosols Formation from Characteristic Biogenic Volatile Organic Compounds of Luzon” **2019**
  - OVCRD Outright Grant “Solvent-induced Conformational Explorations of conotoxins: Implication to the delivery of peptide-based drugs” **2019**
- - OVCRD Outright Grant “In silico Protein Engineering of Industrially Relevant Phytases (irHPs) from Hafnia alvei” **2019**
+ - OVCRD Outright Grant “*In silico* Protein Engineering of Industrially Relevant Phytases (irHPs) from *Hafnia alvei*” **2019**
  - NSRI Grant “Nucleation Simulations of Atmospherically Relevant Ternary Systems” **2017**
  - DA-Biotech Grant “Understanding the Biochemistry of Monoterpene-Octopamine Receptor Interactions for the Selection of Potential Pest Control Bioactives” **2016**
  - NEWTON FUND “Structure Elucidation and Characterization of the Venus Kinase Receptors of a Philippine Isolate of *Schistosoma japonicum*” **2016**
  - NSRI Grant “Thermophysical Properties from Nucleation Simulations” **2016**
  - EIDR Grant “Towards a Molecular Level Understanding of Essential Oil: Protein Interactions and Their Application as Insect BioControl Agents” **2015**
  - NSRI Grant “Cloning, Expression and in silico Studies of Venus Flytrap Module of Venus Kinase Receptors from Philippine Isolate of *Schistosoma japonicum*” **2015**
- - OVCRD Outright Grant “In silico Protein Engineering of Industrially Relevant *Pseudomonas aeruginosa* Lipase” **2015**
+ - OVCRD Outright Grant “*In silico* Protein Engineering of Industrially Relevant *Pseudomonas aeruginosa* Lipase” **2015**
    
 ----
 
