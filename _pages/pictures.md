@@ -5,6 +5,8 @@ excerpt: "GoodViBEs Lab -- Pictures"
 permalink: /pictures/
 ---
 
+Jump to: [Thesis Defense and Graduation](#thesis-defense-and-graduation), [Conferences and Lab Meetings](#conferences-and-lab-meetings), [ViBEs](#vibes)
+
 # Thesis Defense and Graduation
 
 
@@ -51,6 +53,47 @@ permalink: /pictures/
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_conferences%}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/mix/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd > 2 %}
+</div>
+{% endif %}
+
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
+
+
+# ViBEs
+#### We not only collaborate on science, but we also share and discuss laughter
+
+{% assign number_printed = 0 %}
+{% for pic in site.data.pictures_vibes%}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
