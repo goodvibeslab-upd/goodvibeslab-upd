@@ -11,7 +11,11 @@ Jump to [Research](#research), [Methods](#methods), [Tools](#tools).
 
 # Research
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/membrane_prot.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+<video controls loop style="width: 300px; float: left; margin-right: 30px; border: 10px;">
+    <source src="{{ site.url }}{{ site.baseurl }}/images/respic/dynamics-bonds-rep-trimmed.mp4" type="video/mp4">
+</video>
+
+
 
 <div style="text-align: justify">
 At the GoodViBEs Lab, our research takes on a highly interdisciplinary approach, combining computational chemistry, biophysics, and medicinal chemistry to tackle complex scientific challenges and drive innovation. By leveraging advanced simulations and theoretical frameworks, we concentrate on:
