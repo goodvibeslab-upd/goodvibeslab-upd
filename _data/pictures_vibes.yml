@@ -34,15 +34,6 @@
 - title: 12b
   image: 12b.jpg
   occasion: mix
-- title: 13b
-  image: 13b.jpg
-  occasion: mix
-- title: 14b
-  image: 14b.jpg
-  occasion: mix
-- title: 18b
-  image: 18b.jpg
-  occasion: mix
 - title: 16b
   image: 16b.jpg
   occasion: mix
@@ -99,6 +90,29 @@
   occasion: mix
 - title: 34b
   image: 34b.jpg
+  occasion: mix
+- title: 35b
+  image: 35b.jpg
+  occasion: mix
+- title: 36b
+  image: 36b.jpg
+  occasion: mix
+- title: 37b
+  image: 37b.jpg
+  occasion: mix
+- title: 38b
+  image: 38b.jpg
+  occasion: mix
+
+
+- title: 13b
+  image: 13b.jpg
+  occasion: mix
+- title: 14b
+  image: 14b.jpg
+  occasion: mix
+- title: 18b
+  image: 18b.jpg
   occasion: mix
 - title: 44_not_cropped
   image: 44.jpg
