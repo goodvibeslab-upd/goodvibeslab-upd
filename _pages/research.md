@@ -11,9 +11,8 @@ Jump to [Research](#research), [Methods](#methods), [Tools](#tools).
 
 # Research
 
-<video controls autoplay loop muted style="width: 300px; float: left; margin-right: 30px; border: 10px;">
-    <source src="{{ site.url }}{{ site.baseurl }}/images/respic/dynamics-bonds-rep-trimmed.mp4" type="video/mp4">
-</video>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/dynamics-bonds-rep-trimmed.gif" alt="protein sims" style="width: 300px; float: left; margin-right: 30px; border: 10px;">
+
 
 
 <div style="text-align: justify">
