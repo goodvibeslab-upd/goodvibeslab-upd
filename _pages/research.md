@@ -11,10 +11,9 @@ Jump to [Research](#research), [Methods](#methods), [Tools](#tools).
 
 # Research
 
-<video controls loop style="width: 300px; float: left; margin-right: 30px; border: 10px;">
+<video autoplay loop style="width: 300px; float: left; margin-right: 30px; border: 10px;">
     <source src="{{ site.url }}{{ site.baseurl }}/images/respic/dynamics-bonds-rep-trimmed.mp4" type="video/mp4">
 </video>
-
 
 
 <div style="text-align: justify">
