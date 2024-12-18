@@ -18,6 +18,7 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
+<href="{{ site.url }}{{ site.baseurl }}/images/picpic/mix/{{ pic.image }}" data-lightbox="mix-gallery">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/mix/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
@@ -45,5 +46,5 @@ permalink: /pictures/
 
 <p> &nbsp; </p>
 
-##Conferences, Meetings, and Graduation
+# Conferences, Meetings, and Graduation
 
