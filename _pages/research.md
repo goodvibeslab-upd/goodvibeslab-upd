@@ -13,8 +13,6 @@ Jump to [Research](#research), [Methods](#methods), [Tools](#tools).
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dynamics-bonds-rep-trimmed.gif" alt="protein sims" style="width: 300px; float: left; margin-right: 30px; border: 10px;">
 
-
-
 <div style="text-align: justify">
 At the GoodViBEs Lab, our research takes on a highly interdisciplinary approach, combining computational chemistry, biophysics, and medicinal chemistry to tackle complex scientific problems. By leveraging advanced molecular simulations and theoretical frameworks, we focus on:
 
@@ -26,3 +24,14 @@ At the GoodViBEs Lab, our research takes on a highly interdisciplinary approach,
  - **Computer-aided drug design**, accelerating the discovery and development of novel therapeutics within medicinal chemistry.
 </div>
 ----
+
+# Virtual Lab Tour
+<div style="text-align: justify">
+Take a virtual tour of the GoodViBEs Lab and explore our cutting-edge research and collaborative workspace!
+</div>
+
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/U266UpYnDo4" frameborder="0" allowfullscreen></iframe>
+</div>
+
