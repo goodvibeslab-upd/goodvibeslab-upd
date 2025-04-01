@@ -1,3 +1,13 @@
+- title: "Cluster Structure and Ordering in the Nucleation and Growth of Binary Molecular Mixtures"
+  image: 2025_cabinta.jpeg
+  description: ""
+  authors: "Joseph Gregory Z. Cabinta, Earl Adrian D. R. Hans, Roosevelt T. Tabag Jr., Johnrob Y. Bantang, and Ricky B. Nellas"
+  link:
+    url: "https://doi.org/10.1021/acs.jpcb.5c00430"
+    display: ""The Journal of Physical Chemistry B"
+  highlight: 1
+
+
 - title: "Exploring the effects of N234 and N343 linked glycans to SARS-CoV-2 spike protein pocket accessibility using Gaussian accelerated molecular dynamics simulations"
   description: ""
   authors: "Ronny L. Cheng, James Peter L. Lim, Myrnel A. Fortuna, Donnifer V. Reyes Jr., Earl Adrian D. R. Hans & Ricky B. Nellas"
@@ -30,7 +40,7 @@
 - title: "Complementary Pocket and Network-Based Approach to Search for Spike Protein Allosteric Pocket Sites"
   image: 2023_cheng.jpeg
   description: ""
-  authors: "Ronny Cheng, Jerwin Quirante, Louise Erika Vargas, Abigael Gatchalian"
+  authors: "Ronny Cheng, Jerwin Quirante, Louise Erika Vargas, Abigael Gatchalian, and Ricky Nellas"
   link:
     url: "https://doi.org/10.1021/acsomega.3c04007"
     display: "ACS Omega 2023, 8, 48, 45313–45325"
