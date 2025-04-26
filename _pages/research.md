@@ -48,7 +48,9 @@ Take a virtual tour of the GoodViBEs Lab and explore our cutting-edge research a
 </div>
 
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/U266UpYnDo4" frameborder="0" allowfullscreen></iframe>
+<div class="text-center">
+  <div class="embed-responsive embed-responsive-16by9" style="max-width: 100%; margin: auto;">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/U266UpYnDo4" allowfullscreen></iframe>
+  </div>
 </div>
 
