@@ -48,13 +48,12 @@ Take a virtual tour of the GoodViBEs Lab and explore our cutting-edge research a
 </div>
 
 
-<div style="max-width: 720px; margin: auto;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe src="https://www.youtube.com/embed/U266UpYnDo4" 
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; border-radius: 12px;"
-      allowfullscreen>
-    </iframe>
-  </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 720px; margin: auto;" markdown="0">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          src="https://www.youtube.com/embed/U266UpYnDo4" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
 </div>
 
 
