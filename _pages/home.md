@@ -19,6 +19,7 @@ We are part of the <a href="https://chemistry.science.upd.edu.ph">Institute of C
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -33,10 +34,13 @@ We are part of the <a href="https://chemistry.science.upd.edu.ph">Institute of C
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pocketcheng.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/acs_cover.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cabinta.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sablay_2024.JPG" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/acs_cover.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sablay_2024.JPG" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -48,10 +52,3 @@ We are part of the <a href="https://chemistry.science.upd.edu.ph">Institute of C
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GV_lab.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IC_logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CS_logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UPD_logo.png" style="width: 110px">
-</figure>
