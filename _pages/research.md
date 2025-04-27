@@ -43,6 +43,9 @@ At the GoodViBEs Lab, our research takes on a highly interdisciplinary approach,
 ----
 
 # Virtual Lab Tour
+<div style="text-align: justify">
+Take a virtual tour of the GoodViBEs Lab and explore our cutting-edge research and collaborative workspace!
+</div>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 720px; margin: auto; margin-bottom: 40px;" markdown="0">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
