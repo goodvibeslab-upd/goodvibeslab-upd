@@ -1,3 +1,6 @@
+- title: lab_dinner
+  image: 2025_1
+  occasion: mix
 - title: 1b
   image: 1b.jpg
   occasion: mix
@@ -122,4 +125,10 @@
   occasion: mix
 - title: 46_not_cropped
   image: 46.jpg
+  occasion: mix
+- title: 2025_CNY
+  image: 2025_4.jpg
+  occasion: mix
+- title: pasig
+  image: 2025_8.jpg
   occasion: mix
